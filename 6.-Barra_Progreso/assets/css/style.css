@@ -41,7 +41,7 @@ body {
     stroke-dasharray: 550; 
     stroke-dashoffset: 550;
 
-    animation: loading 25s linear forwards;
+    animation: loading 10s linear forwards;
 }
 
 @keyframes loading {
